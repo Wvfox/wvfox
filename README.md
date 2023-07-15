@@ -16,13 +16,13 @@
 
 <br>
 
-&nbsp;:briefcase: [Мое портфолио](https://wvfox.github.io/portfolio/)
-
 &nbsp; :man_technologist: Я веб-разработчик.
 
 &nbsp; :dart: Разрабатываю клиентскую часть сайтов.
 
 &nbsp; :mortar_board: Изучаю написание серверной части.
+
+&nbsp; :briefcase: [Мое портфолио](https://wvfox.github.io/portfolio/)
 
 ---
 
