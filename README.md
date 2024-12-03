@@ -35,9 +35,9 @@
 <img height="32" width="32" src="https://cdn.simpleicons.org/css3" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/javascript" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/react" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/mysql" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/python" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/django" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/mysql" />
 </div>
 
 ---
