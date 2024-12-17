@@ -22,8 +22,6 @@
 
 &nbsp; :mortar_board: Изучаю написание серверной части.
 
-&nbsp; :briefcase: [Мое портфолио](https://wvfox.github.io/portfolio/)
-
 ---
 
 ### :hammer_and_wrench: Языки и инструменты :
